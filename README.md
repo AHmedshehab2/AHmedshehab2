@@ -10,3 +10,4 @@ JavaScript 🌐
 
 Let’s connect and code! ✨
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AHmedshehab2?cardType=level&theme=nightowl&fontFamily=&preferLogin=false&Background=040502)](https://git.io/awesome-stats-card)
